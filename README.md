@@ -1,5 +1,6 @@
 # Foretelling-Retail-price-using-Multivariate-Regression
-
+The clients wanted to find if the prices they were being charged / produced invoice for, were reasonable or were they 
+being taken advantage of.
 ### Attribute Description:
 Attribute | Description
 ----------|-------------
