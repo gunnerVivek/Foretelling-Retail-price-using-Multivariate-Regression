@@ -13,3 +13,5 @@ UnitPrice | The target value, price of every product
 CustomerID | Unique Identifier for every country
 Country | Country of sales, encoded as Label
 
+### Performance Metric
+RMSE (Root Mean Square Error)
