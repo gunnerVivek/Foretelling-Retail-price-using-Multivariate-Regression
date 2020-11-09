@@ -1,6 +1,9 @@
 # Foretelling-Retail-price-using-Multivariate-Regression
 The clients wanted to find if the prices they were being charged / produced invoice for, were reasonable or were they 
 being taken advantage of.
+
+# DATA
+Data provided is divided into TRAIN SET and TEST SET. Training data has $284780$ observations and $8$ variables (including target), and Test data has $122049$ observations and $7$ variables.
 ### Attribute Description:
 Attribute | Description
 ----------|-------------
