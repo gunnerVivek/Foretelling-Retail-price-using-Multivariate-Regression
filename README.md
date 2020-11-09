@@ -16,5 +16,7 @@ UnitPrice | The target value, price of every product
 CustomerID | Unique Identifier for every country
 Country | Country of sales, encoded as Label
 
+# Machine Learning Formulation
+The use case lends itself as a Multivariate Regression problem.
 ### Performance Metric
 RMSE (Root Mean Square Error)
